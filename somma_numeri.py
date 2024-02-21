@@ -3,4 +3,3 @@ somma = 0
 for i in range(1, N + 1):
     somma += i
 print(f"La somma dei numeri da 1 a {N} è {somma}")
-#ho usato chat gpt per quanto riguarda il comando range(1, n + 1):
